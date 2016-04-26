@@ -1,0 +1,370 @@
+cartodb_id,the_geom,rang,reseau,station,trafic,correspondance_1,correspondance_2,correspondance_3,correspondance_4,correspondance_5,ville,arrondissement_pour_paris,station_name,num_correspondances
+75,,222,Métro,CRETEIL-L'ECHAT,2465183,8,,,,,Créteil,,Créteil — L'Échat (Hôpital Henri Mondor),1
+84,,32,Métro,PALAIS-ROYAL,7448640,1,7,,,,Paris,1,Palais Royal - Musée du Louvre,2
+121,,118,Métro,LES COURTILLES,4126878,13,,,,,Asnières sur Seine,,Asnières – Gennevilliers – Les Courtilles,1
+150,,20,Métro,PLACE CLICHY,9346342,2,13,,,,Paris,17,Place de Clichy,2
+40,,171,Métro,BOUCICAUT,3106974,8,,,,,Paris,15,Boucicaut,1
+97,,3,RER,LA DEFENSE-RER,30059436,A,,,,,Puteaux,,,1
+164,,131,Métro,ANATOLE FRANCE,3801122,3,,,,,Levallois-Perret,,Anatole France,1
+165,,110,Métro,ROBESPIERRE,4394418,9,,,,,Montreuil,,Robespierre,1
+166,,88,Métro,CHAMPS-ELYSEES-CLEMENCEAU,4910801,1,13,,,,Paris,8,Champs-Élysées - Clemenceau,2
+167,,66,Métro,COUR SAINT-EMILION,5805955,14,,,,,Paris,12,Cour Saint-Émilion,1
+168,,89,Métro,PORTE DE MONTREUIL,4906785,9,,,,,Paris,20,Porte de Montreuil,1
+169,,79,Métro,VOLTAIRE,5217446,9,,,,,Paris,11,Voltaire,1
+183,,163,Métro,ECOLE VETERINAIRE DE MAISONS-ALFORT,3234540,8,,,,,Maisons -Alfort,,École Vétérinaire de Maisons-Alfort,1
+184,,154,Métro,CORENTIN CELTON,3447242,12,,,,,Issy Les Moulineaux,,Corentin Celton,1
+185,,170,Métro,CHARENTON-ECOLES,3111359,8,,,,,Charenton,,Charenton-Écoles,1
+112,,142,Métro,PORTE DE LA VILLETTE,3583870,7,,,,,Paris,19,Porte de la Villette,1
+186,,55,RER,SAINT-REMY-LES-CHEVREUSE,904642,B,,,,,St-Rémy-Lès-Chevreuse,,,1
+187,,66,RER,LA HACQUINIERE,419554,B,,,,,Bures sur Yvette,,,1
+188,,36,RER,NOGENT-SUR-MARNE,2771411,A,,,,,Nogent-sur-Marne,,Nogent-sur-Marne,1
+189,,65,RER,PARC DE SCEAUX,534550,B,,,,,Antony,,Parc de Sceaux,1
+190,,44,RER,ROBINSON,2057844,B,,,,,Sceaux,,Robinson,1
+192,,238,Métro,MICHEL-ANGE-AUTEUIL,2172312,9,10,,,,Paris,16,Michel-Ange - Auteuil,2
+193,,266,Métro,RASPAIL,1819535,4,6,,,,Paris,14,Raspail,2
+194,,245,Métro,NOTRE-DAME-DES-CHAMPS,2058675,12,,,,,Paris,6,Notre-Dame des Champs,1
+195,,260,Métro,PHILIPPE AUGUSTE,1883838,2,,,,,Paris,11,Philippe Auguste,1
+196,,243,Métro,BREGUET-SABIN,2085448,5,,,,,Paris,11,Bréguet-Sabin,1
+197,,250,Métro,SAINT-JACQUES,2030314,6,,,,,Paris,13,Saint-Jacques,1
+198,,286,Métro,CAMPO-FORMIO,1280674,5,,,,,Paris,13,Campo-Formio,1
+199,,284,Métro,PICPUS,1346859,6,,,,,Paris,12,Picpus,1
+200,,232,Métro,VAVIN,2308243,4,,,,,Paris,14,Vavin,1
+201,,258,Métro,MALAKOFF-RUE ETIENNE DOLET,1888784,13,,,,,Malakoff,,Malakoff - Rue Étienne Dolet,1
+202,,20,RER,DENFERT-ROCHEREAU-RER,4332936,B,,,,,Paris,14,,1
+203,,12,RER,CITE UNIVERSITAIRE,6353921,B,,,,,Paris,14,Cité Universitaire,1
+204,,2,RER,GARE DE LYON-RER,36404818,A,,,,,Paris,12,,1
+205,,292,Métro,BOTZARIS,996326,7bis,,,,,Paris,19,Botzaris,1
+206,,299,Métro,BOLIVAR,581422,7bis,,,,,Paris,19,Bolivar,1
+207,,13,RER,AUBER,6352580,A,,,,,Paris,9,Auber,1
+208,,27,RER,SAINT-MAUR-CRETEIL,3605382,A,,,,,Saint-Maur des Fossés,,Saint-Maur Créteil,1
+209,,10,RER,NOISY-LE-GRAND-MONT D'EST,7098238,A,,,,,Noisy-le-Grand,,,1
+210,,35,RER,BUSSY-SAINT-GEORGES,2959323,A,,,,,Bussy-Saint-Georges,,,1
+211,,29,RER,NANTERRE-VILLE,3469961,A,,,,,Nanterre,,Nanterre - Ville,1
+212,,180,Métro,NOTRE-DAME-DE-LORETTE,3002608,12,,,,,Paris,9,Notre-Dame de Lorette,1
+213,,191,Métro,ETIENNE MARCEL,2897367,4,,,,,Paris,1,Étienne Marcel,1
+214,,208,Métro,VOLONTAIRES,2610342,12,,,,,Paris,15,Volontaires,1
+215,,216,Métro,SOLFERINO,2534934,12,,,,,Paris,7,Solférino,1
+216,,201,Métro,COURCELLES,2733589,2,,,,,Paris,17,Courcelles,1
+217,,226,Métro,LOURMEL,2424840,8,,,,,Paris,15,Lourmel,1
+218,,193,Métro,ROME,2892744,2,,,,,Paris,17,Rome,1
+219,,177,Métro,BOULOGNE-PONT DE SAINT-CLOUD,3051796,10,,,,,Boulogne Billancourt,,Boulogne - Pont de Saint-Cloud,1
+220,,214,Métro,VILLEJUIF-LEO LAGRANGE,2545252,7,,,,,Villejuif,,Villejuif - Léo Lagrange,1
+221,,183,Métro,CARREFOUR PLEYEL,2987091,13,,,,,Saint Denis,,Carrefour Pleyel,1
+222,,2,Métro,SAINT-LAZARE,44936936,3,9,12,13,14,Paris,8,Saint-Lazare,5
+223,,21,Métro,NATION,9333662,1,2,6,9,,Paris,12,Nation,4
+224,,28,Métro,LA MOTTE-PICQUET-GRENELLE,8248998,6,8,10,,,Paris,15,La Motte-Picquet - Grenelle,3
+225,,3,Métro,GARE DE LYON,35162388,1,14,A,,,Paris,12,Gare de Lyon,3
+226,,15,Métro,BELLEVILLE,11598308,2,11,,,,Paris,10,Belleville,2
+227,,26,Métro,SAINT-MICHEL,8695006,4,,,,,Paris,5,Saint-Michel,1
+228,,9,Métro,LA DEFENSE,14367265,1,,,,,Puteaux,,La Défense,1
+229,,264,Métro,FILLES DU CALVAIRE,1832013,8,,,,,Paris,3,Filles du Calvaire,1
+230,,241,Métro,LA TOUR-MAUBOURG,2096559,8,,,,,Paris,7,La Tour Maubourg,1
+119,,152,Métro,BROCHANT,3471022,13,,,,,Paris,17,Brochant,1
+231,,269,Métro,MOUTON-DUVERNET,1752336,4,,,,,Paris,14,Mouton-Duvernet,1
+232,,251,Métro,RICHARD LENOIR,1999612,5,,,,,Paris,11,Richard Lenoir,1
+233,,244,Métro,EDGAR QUINET,2081259,6,,,,,Paris,14,Edgar Quinet,1
+234,,265,Métro,MONTGALLET,1823041,8,,,,,Paris,12,Montgallet,1
+235,,253,Métro,BOISSIERE,1984327,6,,,,,Paris,16,Boissière,1
+236,,249,Métro,EXELMANS,2040930,9,,,,,Paris,16,Exelmans,1
+131,,237,Métro,VILLEJUIF-PAUL VAILLANT-COUTURIER,2244984,7,,,,,Villejuif,,Villejuif - Paul Vaillant Couturier,1
+237,,239,Métro,MAISONS-ALFORT-LES JUILLIOTTES,2137509,8,,,,,Maisons -Alfort,,Maisons-Alfort — Les Juilliottes,1
+238,,270,Métro,MAISONS-ALFORT-STADE,1750437,8,,,,,Maisons -Alfort,,Maisons-Alfort — Stade,1
+239,,53,RER,FONTENAY-AUX-ROSES,1050781,B,,,,,Fontenay aux roses,,Fontenay-aux-Roses,1
+240,,52,RER,LE VESINET-CENTRE,1236912,A,,,,,Le Vésinet,,Le Vésinet Centre,1
+241,,40,RER,LE VESINET-LE PECQ,2284313,A,,,,,Le Vésinet,,,1
+242,,21,RER,NOISY-CHAMPS,4319444,A,,,,,Champs-sur-Marne,,,1
+243,,62,RER,FONTAINE-MICHALON,639164,B,,,,,Antony,,Fontaine-Michalon,1
+244,,33,RER,ARCUEIL-CACHAN,3030454,B,,,,,Arcueil,,Arcueil-Cachan,1
+245,,41,RER,ORSAY-VILLE,2230574,B,,,,,Orsay,,,1
+246,,51,RER,LOGNES,1563658,A,,,,,Lognes,,,1
+247,,60,RER,SCEAUX,701293,B,,,,,sceaux,,Sceaux,1
+248,,30,Métro,CHAUSSEE D'ANTIN-LA FAYETTE,7612896,7,9,,,,Paris,9,Chaussée d'Antin - La Fayette,2
+249,,34,Métro,GAMBETTA,7365448,3,3bis,,,,Paris,20,Gambetta,2
+250,,33,Métro,INVALIDES,7420581,8,13,,,,Paris,7,Invalides,2
+251,,58,Métro,PIGALLE,6176020,2,12,,,,Paris,18,Pigalle,2
+252,,61,Métro,ODEON,6059691,4,10,,,,Paris,6,Odéon,2
+253,,52,Métro,MARCADET-POISSONNIERS,6388263,4,12,,,,Paris,,Marcadet - Poissonniers,2
+254,,50,Métro,PORTE DE VERSAILLES,6424182,12,,,,,Paris,15,Porte de Versailles,1
+255,,47,Métro,ANVERS,6780971,2,,,,,Paris,18,Anvers,1
+256,,60,Métro,SAINT-MANDE-TOURELLE,6069483,1,,,,,Saint Mandé,,,1
+257,,51,Métro,PORTE DE VINCENNES,6398167,1,,,,,Paris,,Porte de Vincennes,1
+258,,138,Métro,PORTE DES LILAS,3627528,3bis,11,,,,Paris,20,Porte des Lilas,2
+293,,200,Métro,MARAICHERS,2807675,9,,,,,Paris,20,Maraîchers,1
+294,,213,Métro,ABBESSES,2555092,12,,,,,Paris,18,Abbesses,1
+295,,195,Métro,TUILERIES,2877169,1,,,,,Paris,1,Tuileries,1
+296,,166,Métro,LOUVRE,3174681,1,,,,,Paris,1,,1
+297,,190,Métro,BILLANCOURT,2903875,9,,,,,Boulogne Billancourt,,Billancourt,1
+298,,12,Métro,CHATELET,12502708,1,4,7,11,14,Paris,1,Châtelet,5
+299,,62,Métro,JAURES,5960472,2,5,7bis,,,Paris,19,Jaurès,3
+300,,14,Métro,FRANKLIN D. ROOSEVELT,12053554,1,9,,,,Paris,8,Franklin D. Roosevelt,2
+301,,11,Métro,HOTEL DE VILLE,12621901,1,11,,,,Paris,4,Hôtel de Ville,2
+302,,19,Métro,TROCADERO,9516364,6,9,,,,Paris,16,Trocadéro,2
+303,,56,Métro,VILLIERS,6257050,2,3,,,,Paris,17,Villiers,2
+304,,63,Métro,MARCEL SEMBAT,5916640,9,,,,,Boulogne Billancourt,,Marcel Sembat,1
+320,,144,Métro,CENSIER-DAUBENTON,3566470,7,,,,,Paris,6,Censier - Daubenton,1
+321,,143,Métro,POISSONNIERE,3569568,7,,,,,Paris,10,Poissonnière,1
+322,,122,Métro,CHATEAU D'EAU,3967264,4,,,,,Paris,10,Château d'Eau,1
+323,,157,Métro,PASSY,3366482,6,,,,,Paris,16,Passy,1
+324,,95,Métro,PONT DE SEVRES,4701284,9,,,,,Boulogne Billancourt,,Pont de Sèvres,1
+325,,146,Métro,CRETEIL-UNIVERSITE,3522563,8,,,,,Créteil,,Créteil Université,1
+326,,99,Métro,ECOLE MILITAIRE,4640723,8,,,,,Paris,,École Militaire,1
+327,,86,Métro,PERE LACHAISE,4932986,2,3,,,,Paris,20,Père Lachaise,2
+328,,82,Métro,DAUMESNIL,5140492,6,8,,,,Paris,12,Daumesnil,2
+329,,64,Métro,MIROMESNIL,5841806,9,13,,,,Paris,,Miromesnil,2
+348,,43,RER,LE PARC DE SAINT-MAUR,2100682,A,,,,,Saint-Maur des Fossés,,Le Parc de Saint-Maur,1
+349,,39,RER,BOISSY-SAINT-LEGER,2315642,A,,,,,Boissy-Saint-Léger,,Boissy-Saint-Léger,1
+351,,14,RER,RUEIL-MALMAISON,6302437,A,,,,,Rueil-Malmaison,,Rueil-Malmaison,1
+352,,42,RER,SUCY-BONNEUIL,2121295,A,,,,,Sucy-en-Brie,,,1
+353,,34,RER,LA CROIX DE BERNY,2975417,B,,,,,Antony,,La Croix de Berny,1
+354,,54,RER,PALAISEAU,954855,B,,,,,Palaiseau,,,1
+62,,186,Métro,SAINT-MAUR,2961357,3,,,,,Paris,11,Saint-Maur Créteil,1
+5,,22,Métro,GARE D'AUSTERLITZ,9210572,5,10,,,,Paris,13,Gare d'Austerlitz,2
+6,,37,Métro,CONCORDE,7102855,1,8,12,,,Paris,8,Concorde,3
+7,,71,Métro,SEVRES-BABYLONE,5387363,10,12,,,,Paris,,Sèvres-Babylone,2
+8,,27,Métro,PORTE DE CLIGNANCOURT,8663554,4,,,,,Paris,18,Porte de Clignancourt,1
+9,,44,Métro,PORTE D'ORLEANS,6848088,4,,,,,Paris,14,Porte d'Orléans,1
+10,,54,Métro,LA CHAPELLE,6352766,2,,,,,Paris,9,La Chapelle,1
+41,,159,Métro,DUPLEIX,3347548,6,,,,,Paris,15,Dupleix,1
+42,,123,Métro,OURCQ,3930609,5,,,,,Paris,19,Ourcq,1
+43,,132,Métro,BOULOGNE-JEAN JAURES,3797640,10,,,,,Boulogne Billancourt,,Boulogne - Jean Jaurès,1
+44,,137,Métro,EGLISE DE PANTIN,3633009,5,,,,,Pantin,,Église de Pantin,1
+45,,164,Métro,GARIBALDI,3197736,13,,,,,Saint Ouen,,Garibaldi,1
+46,,302,Métro,PRE-SAINT-GERVAIS,350959,7bis,,,,,Paris,19,Pré Saint-Gervais,1
+47,,272,Métro,CARDINAL LEMOINE,1713765,10,,,,,Paris,5,Cardinal Lemoine,1
+48,,297,Métro,CHARDON-LAGACHE,639607,10,,,,,Paris,16,Chardon Lagache,1
+49,,303,Métro,EGLISE D'AUTEUIL,179058,10,,,,,Paris,16,Église d'Auteuil,1
+50,,274,Métro,MONCEAU,1662955,2,,,,,Paris,17,Monceau,1
+51,,287,Métro,RENNES,1272544,12,,,,,Paris,6,Rennes,1
+52,,289,Métro,KLEBER,1203757,6,,,,,Paris,16,Kléber,1
+53,,277,Métro,EUROPE,1585380,3,,,,,Paris,8,Europe,1
+54,,9,RER,SAINT-MICHEL-NOTRE-DAME,7773356,B,,,,,Paris,,Saint-Michel Notre Dame,1
+56,,197,Métro,SAINT-PHILIPPE-DU-ROULE,2840177,9,,,,,Paris,8,Saint-Philippe du Roule,1
+57,,204,Métro,JAVEL-ANDRE CITROEN,2654991,10,,,,,Paris,15,Javel - André Citroën,1
+130,,231,Métro,CITE,2326158,4,,,,,Paris,4,Cité,1
+314,,229,Métro,IENA,2383490,9,,,,,Paris,16,Iéna,1
+11,,46,Métro,CRIMEE,6800500,7,,,,,Paris,19,Crimée,1
+12,,45,Métro,PONT DE NEUILLY,6823045,1,,,,,Neuilly Sur Seine,,Pont de Neuilly,1
+13,,69,Métro,LES SABLONS,5500065,1,,,,,Neuilly Sur Seine,,Les Sablons,1
+14,,72,Métro,CHATEAU DE VINCENNES,5365513,1,,,,,Vincennes,,Château de Vincennes,1
+15,,59,Métro,CHATILLON-MONTROUGE,6109396,13,,,,,Chatillon,,Châtillon-Montrouge,1
+361,,263,Métro,FELIX FAURE,1838532,8,,,,,Paris,15,Félix Faure,1
+362,,273,Métro,PONT MARIE,1695690,7,,,,,Paris,4,Pont Marie,1
+363,,298,Métro,DANUBE,617424,7bis,,,,,Paris,19,Danube,1
+364,,256,Métro,BUZENVAL,1896837,9,,,,,Paris,20,Buzenval,1
+365,,283,Métro,MIRABEAU,1390817,10,,,,,Paris,16,Mirabeau,1
+366,,288,Métro,TEMPLE,1222777,3,,,,,Paris,2,Temple,1
+367,,61,RER,BURES-SUR-YVETTE,662982,B,,,,,Bures sur Yvette,,,1
+368,,59,RER,GIF-SUR-YVETTE,711162,B,,,,,Gif sur Yvette,,,1
+16,,117,Métro,JUSSIEU,4174050,7,10,,,,Paris,5,Jussieu,2
+17,,106,Métro,SAINT-GERMAIN DES PRES,4443897,4,,,,,Paris,6,Saint-Germain-des-Prés,1
+18,,120,Métro,PORTE DE CLICHY,4094794,13,,,,,Paris,17,Porte de Clichy,1
+340,,162,Métro,SAINT-PLACIDE,3278515,4,,,,,Paris,6,Saint-Placide,1
+341,,188,Métro,ARGENTINE,2947071,1,,,,,Paris,17,Argentine,1
+342,,161,Métro,PERNETY,3282156,13,,,,,Paris,14,Pernety,1
+343,,182,Métro,SIMPLON,2994372,4,,,,,Paris,18,Simplon,1
+344,,210,Métro,WAGRAM,2575870,3,,,,,Paris,17,Wagram,1
+345,,212,Métro,CRETEIL-POINTE DU LAC,2564228,8,,,,,Créteil,,Créteil — Pointe du Lac,1
+346,,184,Métro,MAIRIE D'IVRY,2975244,7,,,,,Ivry,,Mairie d'Ivry,1
+347,,31,RER,PORT ROYAL,3322322,B,,,,,Paris,5,Port Royal,1
+350,,28,RER,JOINVILLE-LE-PONT,3564470,A,,,,,Joinville-le-Pont,,Joinville-le-Pont,1
+74,,254,Métro,AVRON,1916547,2,,,,,Paris,11,Avron,1
+76,,64,RER,COURCELLE-SUR-YVETTE,566605,B,,,,,Gif sur Yvette,,,1
+77,,6,Métro,REPUBLIQUE,18224965,3,5,8,9,11,Paris,11,République,5
+78,,4,Métro,MONTPARNASSE-BIENVENUE,31553833,4,6,12,13,,Paris,14,Montparnasse-Bienvenüe,4
+80,,1,Métro,GARE DU NORD,51316194,4,5,,,,Paris,10,Gare du Nord,2
+81,,7,Métro,LES HALLES,17991605,4,,,,,Paris,1,Les Halles,1
+82,,35,Métro,GRANDS BOULEVARDS,7345811,8,9,,,,Paris,9,Grands Boulevards,2
+83,,65,Métro,REUILLY-DIDEROT,5808594,1,8,,,,Paris,12,Reuilly — Diderot,2
+85,,98,Métro,PASTEUR,4655655,6,12,,,,Paris,9,Pasteur,2
+86,,76,Métro,PORTE DE SAINT-CLOUD,5291193,9,,,,,Paris,16,Porte de Saint-Cloud,1
+88,,96,Métro,MAIRIE DES LILAS,4681803,11,,,,,Les Lilas,,Mairie des Lilas,1
+89,,36,Métro,MAIRIE DE CLICHY,7129195,13,,,,,Clichy,,Mairie de Clichy,1
+90,,38,Métro,BIR-HAKEIM,7094930,6,,,,,Paris,,Bir-Hakeim,1
+91,,55,Métro,GEORGE V,6273359,1,,,,,Paris,,George V,1
+92,,4,RER,CHATELET-LES HALLES-RER,26580053,A,B,,,,Paris,1,,2
+93,,19,RER,NEUILLY-PLAISANCE,5014436,A,,,,,Neuilly-sur-Seine,,Neuilly-Plaisance,1
+94,,38,RER,FONTENAY-SOUS-BOIS,2469377,A,,,,,Fontenay-sous-Bois,,Fontenay-sous-Bois,1
+95,,6,RER,VAL DE FONTENAY,12157778,A,,,,,Fontenay-sous-Bois,,,1
+96,,30,RER,CHAMPIGNY,3432922,A,,,,,Saint-Maur des Fossés,,,1
+98,,45,RER,CHATOU-CROISSY,2050458,A,,,,,Chatou,,Chatou - Croissy,1
+99,,25,RER,VAL D'EUROPE,3703646,A,,,,,Serris,,,1
+100,,32,RER,LAPLACE,3224399,B,,,,,Arcueil,,Laplace,1
+101,,15,RER,ANTONY,6186694,B,,,,,Antony,,Antony,1
+102,,189,Métro,PORTE DE LA CHAPELLE,2939078,12,,,,,Paris,18,Porte de la Chapelle,1
+103,,187,Métro,SAINT-AUGUSTIN,2947957,9,,,,,Paris,8,Saint-Augustin,1
+104,,192,Métro,PORTE DAUPHINE,2894665,2,,,,,Paris,16,Porte Dauphine,1
+105,,198,Métro,PORTE DOREE,2822951,8,,,,,Paris,12,Porte Dorée,1
+106,,207,Métro,NATIONALE,2614523,6,,,,,Paris,13,Nationale,1
+107,,181,Métro,COMMERCE,2996497,8,,,,,Paris,15,Commerce,1
+108,,178,Métro,SAINT-DENIS-PORTE DE PARIS,3041907,13,,,,,Saint Denis,,Saint-Denis Porte de Paris,1
+110,,196,Métro,BERAULT,2858413,1,,,,,Vincennes,,Bérault,1
+111,,185,Métro,PLACE MONGE,2973319,7,,,,,Paris,,Place Monge,1
+55,,282,Métro,PIERRE CURIE,1406411,7,,,,,Ivry,,,1
+113,,109,Métro,PORTE DE VANVES,4410283,13,,,,,Paris,14,Porte de Vanves,1
+114,,158,Métro,QUAI DE LA GARE,3366405,6,,,,,Paris,13,Quai de la Gare,1
+115,,126,Métro,ALEXANDRE DUMAS,3846473,2,,,,,Paris,11,Alexandre Dumas,1
+116,,102,Métro,COLONEL FABIEN,4575858,2,,,,,Paris,10,Colonel Fabien,1
+120,,149,Métro,CADET,3485034,7,,,,,Paris,9,Cadet,1
+122,,255,Métro,PORTE DE CHARENTON,1902697,8,,,,,Paris,12,Porte de Charenton,1
+123,,252,Métro,SEVRES-LECOURBE,1992343,6,,,,,Paris,15,Sèvres-Lecourbe,1
+124,,247,Métro,MAISON BLANCHE,2043760,7,,,,,Paris,13,Maison Blanche,1
+125,,248,Métro,MICHEL BIZOT,2043217,8,,,,,Paris,12,Michel Bizot,1
+126,,240,Métro,SAINT-MARCEL,2101575,5,,,,,Paris,13,Saint-Marcel,1
+127,,257,Métro,MABILLON,1892987,10,,,,,Paris,6,Mabillon,1
+128,,230,Métro,RANELAGH,2383384,9,,,,,Paris,16,Ranelagh,1
+129,,246,Métro,JASMIN,2047639,9,,,,,Paris,16,Jasmin,1
+132,,268,Métro,SAINT-FRANCOIS-XAVIER,1797081,13,,,,,Paris,7,Saint-François-Xavier,1
+133,,300,Métro,BUTTES-CHAUMONT,492601,7bis,,,,,Paris,19,Buttes Chaumont,1
+134,,262,Métro,QUATRE-SEPTEMBRE,1850860,3,,,,,Paris,2,Quatre Septembre,1
+135,,276,Métro,CHATEAU-LANDON,1629996,7,,,,,Paris,10,Château Landon,1
+136,,281,Métro,SULLY-MORLAND,1468391,7,,,,,Paris,4,Sully - Morland,1
+137,,301,Métro,PELLEPORT,382266,3bis,,,,,Paris,20,Pelleport,1
+138,,293,Métro,FALGUIERE,965829,12,,,,,Paris,15,Falguière,1
+139,,278,Métro,VARENNE,1552036,13,,,,,Paris,7,Varenne,1
+140,,294,Métro,VANEAU,959858,10,,,,,Paris,7,Vaneau,1
+141,,275,Métro,LIEGE,1659751,13,,,,,Paris,8,Liège,1
+142,,56,RER,PALAISEAU-VILLEBON,856892,B,,,,,Palaiseau,,,1
+143,,50,RER,LES BACONNETS,1623880,B,,,,,Antony,,Les Baconnets,1
+144,,16,Métro,PLACE D'ITALIE,11542761,5,6,7,,,Paris,13,Place d'Italie,3
+146,,39,Métro,STALINGRAD,7089762,2,5,7,,,Paris,19,Stalingrad,3
+147,,42,Métro,MADELEINE,6889442,8,12,14,,,Paris,8,Madeleine,3
+117,,115,Métro,ALMA-MARCEAU,4272042,9,,,,,Paris,8,Alma-Marceau,1
+148,,23,Métro,BARBES-ROCHECHOUART,9178399,2,4,,,,Paris,18,Barbès - Rochechouart,2
+149,,29,Métro,HAVRE-CAUMARTIN,7661183,3,9,,,,Paris,9,Havre - Caumartin,2
+79,,25,Métro,CHARLES DE GAULLE-ETOILE,8941588,1,2,6,,,Paris,8,Charles de Gaulle — Étoile (metro),3
+87,,85,Métro,PONT DE LEVALLOIS-BECON,5033694,3,,,,,Levallois-Perret,,Pont de Levallois – Bécon,1
+118,,140,Métro,FUNICULAIRE,3596114,2,,,,,Paris,18,Funiculaire Montmartre - Station Inférieure,1
+109,,224,Métro,BOBIGNY-PANTIN-RAYMOND QUENEAU,2438115,5,,,,,Pantin,,Bobigny-Pantin (Raymond Queneau),1
+145,,8,Métro,BIBLIOTHEQUE,15840239,14,,,,,Paris,13,Bibliothèque François Mitterrand,1
+151,,24,Métro,PORTE MAILLOT,9089205,1,,,,,Paris,16,Porte Maillot,1
+153,,41,Métro,AUBERVILLIERS-PANTIN-QUATRE CHEMINS,6927817,7,,,,,Aubervilliers,,Aubervilliers - Pantin - Quatre Chemins,1
+154,,31,Métro,BOBIGNY-PABLO PICASSO,7461452,5,,,,,Bobigny,,Bobigny - Pablo Picasso,1
+155,,40,Métro,OLYMPIADES,7000540,14,,,,,Paris,,Olympiades,1
+156,,116,Métro,DENFERT-ROCHEREAU,4268859,4,6,,,,Paris,14,Denfert-Rochereau,2
+157,,119,Métro,RICHELIEU-DROUOT,4114054,8,9,,,,Paris,9,Richelieu Drouot,2
+158,,100,Métro,GUY MOQUET,4602495,13,,,,,Paris,17,Guy Môquet,1
+159,,112,Métro,LA MUETTE,4328056,9,,,,,Paris,16,La Muette,1
+170,,94,Métro,PEREIRE,4711045,3,,,,,Paris,17,Péreire,1
+171,,78,Métro,SAINT-DENIS-UNIVERSITE,5261145,13,,,,,Saint Denis,,Saint-Denis-Université,1
+65,,206,Métro,LIBERTE,2635279,8,,,,,Charenton,,Liberté,1
+172,,53,Métro,VILLEJUIF-LOUIS ARAGON,6360814,7,,,,,Villejuif,,,1
+173,,49,Métro,MAIRIE DE MONTREUIL,6517125,9,,,,,Montreuil,,Mairie de Montreuil,1
+174,,97,Métro,CRETEIL-PREFECTURE,4674246,8,,,,,Créteil,,,1
+175,,57,Métro,GALLIENI,6196476,3,,,,,Bagnolet,,Gallieni,1
+176,,141,Métro,PORTE DE CHAMPERRET,3595140,3,,,,,Paris,17,Porte de Champerret,1
+177,,139,Métro,LES GOBELINS,3603185,7,,,,,Paris,13,Les Gobelins,1
+178,,151,Métro,JOURDAIN,3474999,11,,,,,Paris,20,Jourdain,1
+179,,147,Métro,GONCOURT,3517379,11,,,,,Paris,11,Goncourt,1
+180,,155,Métro,TOLBIAC,3419771,7,,,,,Paris,13,Tolbiac,1
+181,,167,Métro,GAITE,3134147,13,,,,,Paris,14,Gaîté,1
+182,,160,Métro,BOURSE,3293898,3,,,,,Paris,2,Bourse,1
+160,,128,Métro,TERNES,3833182,2,,,,,Paris,17,Ternes,1
+161,,111,Métro,LE KREMLIN-BICETRE,4360175,7,,,,,Kremlin-Bicêtre,,Le Kremlin-Bicêtre,1
+162,,136,Métro,FORT D'AUBERVILLIERS,3694272,7,,,,,Aubervilliers,,Fort d'Aubervilliers,1
+163,,130,Métro,MAIRIE DE SAINT-OUEN,3819193,13,,,,,Saint Ouen,,Mairie de Saint-Ouen,1
+369,,63,RER,MASSY-VERRIERES,566720,B,,,,,Massy,,,1
+19,,105,Métro,JULES JOFFRIN,4464152,12,,,,,Paris,18,Jules Joffrin,1
+20,,114,Métro,BLANCHE,4278243,2,,,,,Paris,9,Blanche,1
+21,,113,Métro,BALARD,4287048,8,,,,,Paris,15,Balard,1
+22,,108,Métro,MAIRIE D'ISSY,4413172,12,,,,,Issy Les Moulineaux,,Mairie d'Issy,1
+23,,81,Métro,CROIX DE CHAVAUX,5198911,9,,,,,Montreuil,,Croix de Chavaux,1
+24,,104,Métro,MENILMONTANT,4472755,2,,,,,Paris,,Ménilmontant,1
+25,,107,Métro,RAMBUTEAU,4429945,11,,,,,Paris,,Rambuteau,1
+1,,18,Métro,STRASBOURG-SAINT-DENIS,9967686,4,8,9,,,Paris,2,Strasbourg - Saint-Denis,3
+2,,5,Métro,GARE DE L'EST,20284835,4,5,7,,,Paris,10,Gare de l'Est,3
+3,,10,Métro,BASTILLE,13590937,1,5,8,,,Paris,12,Bastille,3
+4,,13,Métro,OPERA,12288027,3,7,8,,,Paris,9,Opéra,3
+191,,58,RER,LOZERE,757466,B,,,,,Palaiseau,,,1
+58,,203,Métro,JACQUES BONSERGENT,2667291,5,,,,,Paris,10,Jacques Bonsergent,1
+59,,173,Métro,RUE DE LA POMPE,3093242,9,,,,,Paris,16,Rue de la Pompe,1
+60,,202,Métro,RUE DES BOULETS,2693345,9,,,,,Paris,11,Rue des Boulets,1
+61,,199,Métro,LA FOURCHE,2816140,13,,,,,Paris,8,La Fourche,1
+63,,205,Métro,DUGOMMIER,2640369,6,,,,,Paris,12,Dugommier,1
+64,,179,Métro,COURONNES,3006923,2,,,,,Paris,11,Couronnes,1
+66,,267,Métro,SAINT-SEBASTIEN-FROISSART,1804340,8,,,,,Paris,3,Saint-Sébastien - Froissart,1
+67,,225,Métro,PORTE D'ITALIE,2432555,7,,,,,Paris,13,Porte d'Italie,1
+68,,217,Métro,SAINT-SULPICE,2532665,4,,,,,Paris,6,Saint-Sulpice,1
+69,,209,Métro,MALESHERBES,2601913,3,,,,,Paris,17,Malesherbes,1
+71,,211,Métro,CAMBRONNE,2565239,6,,,,,Paris,15,Cambronne,1
+72,,215,Métro,CORVISART,2538729,6,,,,,Paris,13,Corvisart,1
+73,,271,Métro,SEGUR,1735579,10,,,,,Paris,15,Ségur,1
+330,,83,Métro,PYRAMIDES,5096769,7,14,,,,Paris,,Pyramides,2
+331,,90,Métro,CHARLES MICHELS,4897053,10,,,,,Paris,15,Charles Michels,1
+332,,91,Métro,GLACIERE,4827308,6,,,,,Paris,13,Glacière,1
+333,,70,Métro,BASILIQUE DE SAINT-DENIS,5434754,13,,,,,Saint Denis,,,1
+334,,68,Métro,CONVENTION,5614573,12,,,,,Paris,,Convention,1
+335,,84,Métro,HOCHE,5040191,5,,,,,Pantin,,Hoche,1
+336,,80,Métro,ALESIA,5208628,4,,,,,Paris,,Alésia,1
+337,,168,Métro,OBERKAMPF,3133981,5,9,,,,Paris,11,Oberkampf,2
+338,,175,Métro,FAIDHERBE-CHALIGNY,3073785,8,,,,,Paris,12,Faidherbe — Chaligny,1
+339,,194,Métro,SAINT-AMBROISE,2877583,9,,,,,Paris,11,Saint-Ambroise,1
+259,,165,Métro,PLACE DES FETES,3180164,7bis,11,,,,Paris,19,Place des Fêtes,2
+260,,127,Métro,ARTS ET METIERS,3836852,3,11,,,,Paris,3,Arts et Métiers,2
+261,,129,Métro,LEDRU-ROLLIN,3830872,8,,,,,Paris,12,Ledru-Rollin,1
+262,,135,Métro,MARX DORMOY,3708018,12,,,,,Paris,18,Marx Dormoy,1
+263,,124,Métro,VICTOR HUGO,3870906,2,,,,,Paris,16,Victor Hugo,1
+264,,153,Métro,PARMENTIER,3455199,3,,,,,Paris,11,Parmentier,1
+265,,150,Métro,SENTIER,3484652,3,,,,,Paris,3,Sentier,1
+266,,134,Métro,MALAKOFF-PLATEAU DE VANVES,3735305,13,,,,,Malakoff,,Malakoff - Plateau de Vanves,1
+267,,145,Métro,LOUISE MICHEL,3543857,3,,,,,Levallois-Perret,,Louise Michel,1
+268,,87,Métro,BONNE NOUVELLE,4932874,8,9,,,,Paris,10,Bonne Nouvelle,2
+269,,75,Métro,REAUMUR-SEBASTOPOL,5326171,3,4,,,,Paris,,Réaumur - Sébastopol,2
+270,,73,Métro,BERCY,5359847,6,14,,,,Paris,,Bercy,2
+271,,93,Métro,PORTE DE PANTIN,4749922,5,,,,,Paris,19,Porte de Pantin,1
+272,,92,Métro,PLAISANCE,4821682,13,,,,,Paris,14,Plaisance,1
+273,,101,Métro,LAUMIERE,4582224,5,,,,,Paris,19,Laumière,1
+274,,121,Métro,CHARONNE,3980318,9,,,,,Paris,12,Charonne,1
+275,,67,Métro,LA COURNEUVE-8 MAI 1945,5665476,7,,,,,La Courneuve,,La Courneuve - 8 mai 1945,1
+276,,74,Métro,MAIRIE DE MONTROUGE,5346471,4,,,,,Montrouge,,Mairie de Montrouge,1
+277,,77,Métro,GABRIEL PERI,5278348,13,,,,,Asnières,,Gabriel Péri,1
+278,,7,RER,CHARLES DE GAULLE-ETOILE-RER,9429351,A,,,,,Paris,17,,1
+279,,295,Métro,SAINT-FARGEAU,823762,3bis,,,,,Paris,8,Saint-Fargeau,1
+280,,285,Métro,SAINT-GEORGES,1286815,12,,,,,Paris,9,Saint-Georges,1
+281,,1,RER,GARE DU NORD-RER,48205117,B,,,,,Paris,10,,1
+282,,280,Métro,CHEMIN VERT,1488841,8,,,,,Paris,11,Chemin Vert,1
+283,,17,RER,MARNE-LA-VALLEE-CHESSY,5078380,A,,,,,Montévrain,,,1
+284,,279,Métro,AVENUE EMILE ZOLA,1551758,10,,,,,Paris,,Avenue Émile Zola,1
+285,,18,RER,NANTERRE-UNIVERSITE,5045960,A,,,,,Nanterre,,Nanterre-Université ,1
+286,,5,RER,NANTERRE-PREFECTURE,23817046,A,,,,,Nanterre,,Nanterre Préfecture,1
+287,,8,RER,MASSY-PALAISEAU,8615200,B,,,,,Massy,,,1
+288,,233,Métro,TRINITE-D'ESTIENNE D'ORVES,2302331,12,,,,,Paris,9,Trinité d'Estienne d'Orves,1
+289,,172,Métro,LAMARCK-CAULAINCOURT,3094805,12,,,,,Paris,18,Lamarck - Caulaincourt,1
+290,,219,Métro,CLUNY LA SORBONNE,2483282,10,,,,,Paris,5,Cluny - La Sorbonne,1
+291,,174,Métro,PORTE DE CHOISY,3088532,7,,,,,Paris,13,Porte de Choisy,1
+292,,218,Métro,RUE DU BAC,2529823,12,,,,,Paris,7,Rue du Bac,1
+26,,16,RER,LUXEMBOURG,5441398,B,,,,,Paris,5,Luxembourg,1
+27,,23,RER,NATION-RER,4120752,A,,,,,Paris,12,,1
+28,,49,RER,LA VARENNE-CHENNEVIERES,1871804,A,,,,,saint-Maur des Fossés,,,1
+29,,24,RER,SAINT-GERMAIN-EN-LAYE,4000603,A,,,,,Saint-Germain-en-Laye,,,1
+30,,22,RER,BOURG-LA-REINE,4202460,B,,,,,Bourg la Reine,,Bourg-la-Reine,1
+31,,47,RER,BRY-SUR-MARNE,2021786,A,,,,,Bry-sur-Marne,,Bry-sur-Marne,1
+32,,11,RER,VINCENNES,6474243,A,,,,,Vincennes,,Vincennes,1
+33,,48,RER,GENTILLY,1917456,B,,,,,Gentilly,,Gentilly,1
+34,,57,RER,LE GUICHET,856871,B,,,,,Orsay,,,1
+35,,46,RER,BAGNEUX,2034790,B,,,,,Cachan,,Bagneux,1
+36,,169,Métro,CORENTIN CARIOU,3115884,7,,,,,Paris,19,Corentin Cariou,1
+37,,125,Métro,VAUGIRARD,3850737,12,,,,,Paris,15,Vaugirard,1
+38,,176,Métro,CHEVALERET,3055302,6,,,,,Paris,13,Chevaleret,1
+39,,156,Métro,PYRENEES,3404189,11,,,,,Paris,20,Pyrénées,1
+70,,259,Métro,PONT NEUF,1886611,7,,,,,Paris,4,Pont Neuf,1
+152,,48,Métro,SAINT-PAUL,6591103,1,,,,,Paris,4,Saint-Paul,1
+305,,17,Métro,ESPLANADE DE LA DEFENSE,9992248,1,,,,,Puteaux,,Esplanade de La Défense,1
+306,,43,Métro,CHATEAU ROUGE,6879272,4,,,,,Paris,,Château Rouge,1
+307,,242,Métro,MICHEL-ANGE-MOLITOR,2091229,9,10,,,,Paris,16,Michel-Ange - Molitor,2
+308,,227,Métro,LOUIS BLANC,2386942,7,7bis,,,,Paris,10,Louis Blanc,2
+309,,220,Métro,MAUBERT-MUTUALITE,2480448,10,,,,,Paris,5,Maubert Mutualité,1
+310,,235,Métro,LE PELETIER,2258996,7,,,,,Paris,9,Le Peletier,1
+311,,221,Métro,TELEGRAPHE,2465718,11,,,,,Paris,20,Télégraphe,1
+312,,236,Métro,BEL AIR,2249229,6,,,,,Paris,12,Bel-Air,1
+313,,223,Métro,RIQUET,2452712,7,,,,,Paris,19,Riquet,1
+315,,234,Métro,FRONT POPULAIRE,2287004,12,,,,,Saint Denis / Aubervilliers,,Front Populaire,1
+316,,228,Métro,LES AGNETTES,2386282,13,,,,,Asnières sur Seine,,Les Agnettes,1
+317,,148,Métro,DUROC,3515234,10,13,,,,Paris,7,Duroc,2
+318,,133,Métro,PORTE DE SAINT-OUEN,3776345,13,,,,,Paris,17,Porte de Saint-Ouen,1
+319,,103,Métro,PORTE DE BAGNOLET,4495023,3,,,,,Paris,20,Porte de Bagnolet,1
+355,,37,RER,NOISIEL,2644814,A,,,,,Noisiel,,,1
+356,,26,RER,TORCY,3631640,A,,,,,Torcy,,,1
+357,,291,Métro,ASSEMBLEE NATIONALE,1142259,12,,,,,Paris,7,Assemblée Nationale,1
+358,,290,Métro,QUAI DE LA RAPEE,1197619,5,,,,,Paris,12,Quai de la Rapée,1
+359,,296,Métro,PORTE D'AUTEUIL,682814,10,,,,,Paris,16,Porte d'Auteuil,1
+360,,261,Métro,PORTE D'IVRY,1869444,7,,,,,Paris,13,Porte d'Ivry,1
