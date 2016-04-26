@@ -9,14 +9,50 @@
   <link rel="stylesheet" href="index.css" media="screen">
   <link rel="shortcut icon" href="favicon.ico" />
 
+  <style>
+  #info {
+    z-index: 99;
+    position: absolute;
+    background: #fff;
+    width: 200px;
+    left: 100px;
+    top: 20px;
+  }
+  </style>
+
   <script src="//localhost:9091"></script>
 </head>
 
 
 <body>
-  <div id="map"></div>
+  <div id="map">
+    <div id="info">
 
-  
+    </div>
+  </div>
+
+  <script type="text/template" id="js-stations-template">
+  SELECT
+  s.cartodb_id,
+  s.the_geom,
+  s.the_geom_webmercator,
+  s.name,
+  t.trafic,
+  <% if (showTraffic) { %>
+    t.trafic/500000 as circle_size
+  <% } else {%>
+    t.num_correspondances*10 as circle_size
+  <%} %>
+  FROM osm_subway_stations s
+  LEFT JOIN
+  metro_traffic t
+  ON
+  t.station_name = s.name
+  WHERE type_ratp = 'metro'
+
+  </script>
+  <!--   AND wheelchair = '<%= wheelchair %>' -->
+
   <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
   <script type="text/javascript" src="index.js"></script>
 </body>
