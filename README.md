@@ -13,7 +13,7 @@
 - use some generated Carto CSS to actually use those colors
 - hide/show stations with wheelchair access by tweaking SQL on the stations layer- make this dynamic by using an Underscore template
 - have a look at the metro traffic data
-- import trafic csv, using a simple node script and the SQL API
+- import trafic csv, using a simple node script, the SQL API, the node SQL client (and our API key)
 - get back to the editor to see the resulting table
 - with a simple SQL join, preview how we could see trafic data by station
 - precompute an SQL column, and use this column in the CartoCSS, to show trafic data using circle size
